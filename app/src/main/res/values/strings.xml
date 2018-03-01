@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Informações Gerenciais</string>
+    <string name="new_student">Novo Aluno</string>
+    <string name="new_college">Nova Faculdade</string>
+    <string name="name">Nome:</string>
+    <string name="include">Cadastrar</string>
+</resources>
