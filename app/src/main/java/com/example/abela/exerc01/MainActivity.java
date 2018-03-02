@@ -39,7 +39,7 @@ public class MainActivity extends AppCompatActivity implements OnClickListener {
 
         } if (id == R.id.btNewCollege){
             Intent it = new Intent(this, CollegeActivity.class);
-            startActivity(it);;
+            startActivity(it);
         }
     }
 
